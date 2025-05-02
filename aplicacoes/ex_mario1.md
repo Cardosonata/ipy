@@ -12,6 +12,7 @@ colunas = 3
 
 for linha in range(linhas):
     print("#" * colunas)
+#imprime 3 "#" linear em 6 linhas susequente
 ```
 
 2. Modifique o programa para que os valores das linhas e colunas sejam recebidos pela linha de comando
